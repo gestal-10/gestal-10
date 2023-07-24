@@ -16,7 +16,7 @@
       Creative & digital agency subscription service.
     </p>
     <p>
-      <a href="https://github.com/lepagebond">Gestal—10</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/lepagebond">by Lepage & Bond</a>
+      <a href="https://github.com/gestal-10">Gestal—10</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/lepagebond">by Lepage & Bond</a>
     </p>
     <div>
       <a href="https://twitter.com/gestal-10">
@@ -53,8 +53,8 @@
   <div>
     <h3>Table of contents</h3>
     <div>
-      —&nbsp;&nbsp;<a href="#status">Status</a><br />
-      —&nbsp;&nbsp;<a href="#partner-info">Partner info</a><br />
+      — <a href="#status">Status</a><br />
+      — <a href="#partner-info">Partner info</a><br />
     </div>
   </div>
 </nav>
