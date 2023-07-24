@@ -4,8 +4,8 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="" width="100%" alt="Gestal-10 banner [1600x170]"">
-        <img src="" width="100%" alt="Gestal-10 banner [1600x170]">
+          srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/1711854/255731017-e6592f73-ab04-4c58-9728-39b92edca2cc.svg" width="100%" alt="Gestal-10 banner [1600x170]"">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/1711854/255728918-26eaff41-e85d-45ec-b983-16b4b4151275.svg" width="100%" alt="Gestal-10 banner [1600x170]">
       </picture>
     </a>
   </div>
@@ -63,15 +63,10 @@
   <div>
     <h3>Status</h3>
     <a href="https://gestal-10.com">
-      <img src="https://img.shields.io/badge/gestal--10.com-FFFFFF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/gestal--10.com-EDEBE9?style=for-the-badge" />
     </a>
     <a href="https://twitter.com/gestal-10">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="https://user-images.githubusercontent.com/1711854/232361127-ecae2f2a-27c8-49e2-871b-eed7c52da63d.svg" width="95px" alt="Lepage & Bond Twitter [95x28]">
-        <img src="https://user-images.githubusercontent.com/1711854/232361123-47a91dbe-7bb1-4513-901d-8bffef1521f6.svg" width="95px" alt="Lepage & Bond Twitter [95x28]">
-      </picture>
+      <img src="https://img.shields.io/badge/twitter-EDEBE9?style=for-the-badge&logo=twitter&logoColor=black" />
     </a>
   </div>
 </section>
